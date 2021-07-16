@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Antonio Araujo Pavão
 - 👀 I’m interested in technology, music, arts, and people. 
-- 🌱 I’m currently learning HTML, CSS, JS, NODE
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning:
+---> HTML, CSS, JS, Node.js, SQL, MongoDB, Selenium, Cypress, and so on.
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
