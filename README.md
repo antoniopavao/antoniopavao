@@ -1,6 +1,6 @@
 ## Hello there! I'm Antonio Araujo Pavão!
  - 💻 Working with Back-end, Test Automation and RPA
- - 🌱 Studying Node.js, MongoDB, Cypress, Selenium
+ - 🌱 Studying Node.js, MongoDB, PostgresSQL Cypress, Selenium
  - 👦🏽 Pronouns: He/Him
 
  <div>
