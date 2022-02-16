@@ -1,6 +1,6 @@
 ## Hello there! I'm Antonio Araujo Pavão!
- - 💻 Working with back-end development, focused on unit tests and integration tests.
- - 🌱 Studying Node.js, MongoDB, PostgresSQL, Typescript
+ - 💻 Studying back-end development, focused on unit tests and integration tests.
+ - 🌱 Studying Node.js, MongoDB, PostgresSQL, Typescript, TypeORM and Prisma.
  - 👦🏽 Pronouns: He/Him
 
  <div>
